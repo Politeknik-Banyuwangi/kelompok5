@@ -67,15 +67,19 @@ Kelola Data Customer
 Dari tabel diatas menambahkan data customer sesuai dengan informasi data customer.
 
 	Kelola Data Pelayanan
- 
+ ![5](https://user-images.githubusercontent.com/116718939/212386648-342af0c6-0de3-44af-8a28-1ecdfb691c8e.jpg)
+
 Dari tambahkan data dari tabel pelayanan sesuai isi data-data dari tabel pelayanan yang tercantum sebelumnya.
-	Kelola Data Transaksi
+	Kel![6](https://user-images.githubusercontent.com/116718939/212386681-676b3951-5028-4135-bde8-31fff664ae9c.jpg)
+ola Data Transaksi
  
 Misal pelaku usaha atau admin ingin menambahkan data tinggal menambahkan sesuai data data transaksi dari customer yang sudah melakukan transaksi.
 
-	Cetak Laporan
+	![7](https://user-images.githubusercontent.com/116718939/212386702-753e0b9f-43cc-4082-981d-3e8fee9ef9ef.jpg)
+Cetak Laporan
  
-Cetak laporan adalah fitur yang sudah ditambahkan di masing masing tabel di website tersebut. Contoh diatas merupakan cetak laporan dari tabel customer yang berisi informasi sesuai isi dari tabel customer.
+Cetak laporan adalah fitur yang sudah ditambahkan di masing masing tabel di website tersebut. Contoh diatas merupakan cetak laporan dari tabel customer yang berisi informasi se![8](https://user-images.githubusercontent.com/116718939/212386790-34475ef2-6480-40cd-8ba0-96c4b056d561.jpg)
+suai isi dari tabel customer.
 
 	Form Sign Out
  
